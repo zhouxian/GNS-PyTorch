@@ -1,0 +1,8 @@
+# FORMAT
+# hostname:
+#     username:
+#         ***: 
+
+.*:
+    .*:
+        data_dir: 'data'
